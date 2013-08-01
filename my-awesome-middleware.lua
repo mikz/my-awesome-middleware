@@ -1,1 +1,1 @@
-my new file contents
+"return function()\n  -- code\n  end"
